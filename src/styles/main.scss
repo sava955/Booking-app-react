@@ -1,0 +1,11 @@
+@import './varibales';
+@import './header/header';
+@import './rental/rental-listing';
+
+body {
+    color: $main-text-gray-color !important; 
+}
+
+.primary {
+    background-color: $main-color !important;
+}
